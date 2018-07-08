@@ -1,0 +1,14 @@
+<!--Jumbotron-->
+<div class="jumbotron jumbotron-fluid">
+    <div class="container">
+      <h1 class="display-4">Auto-correct Typing Form</h1>
+      <p class="lead">This is a simple text auto-correct field that takes in an input and capitalizes anything that isn't an article.</p>
+    </div>
+  </div>
+
+<!-- use double binding to text title -->
+<input id="inputBox" type="text" [(ngModel)]="title">
+<br>
+<!--Use interpulation to mirror what the use types in the input field-->
+<div id = "inputBoxMirror">{{ title | titleCase }}</div>
+

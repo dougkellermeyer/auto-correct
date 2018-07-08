@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+#inputBox {
+margin-left: 23%;
+}
+
+#inputBoxMirror {
+margin-left: 23%;
+}
+   
+   body {
+       background-color: darkgrey;
+   }
