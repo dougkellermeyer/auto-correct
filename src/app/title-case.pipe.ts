@@ -16,7 +16,8 @@ export class TitleCasePipe implements PipeTransform {
       'to',
       'at',
       'a', 
-      'and'
+      'and',
+      'is'
     ]
 
     let words = value.split(' ');
