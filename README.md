@@ -1,6 +1,6 @@
 # AutoTypeApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+This is an auto-correction app that automatically capitalizes an input and mirrors it on the page. Built using Angular 4, TypeScript, Bootstrap, HTML, and CSS.
 
 ## Local Development
 
