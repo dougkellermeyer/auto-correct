@@ -1,6 +1,6 @@
-# AutoTypeApp
+# AutoType Appliccation
 
-This is an auto-correction app that automatically capitalizes an input and mirrors it on the page. Built using Angular 4, TypeScript, Bootstrap, HTML, and CSS.
+This is an auto-correction application that automatically capitalizes an input and mirrors it on the page. Built using Angular 4, TypeScript, Bootstrap, HTML, and CSS.
 
 ## Local Development
 
